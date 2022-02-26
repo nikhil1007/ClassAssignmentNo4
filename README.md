@@ -1,4 +1,4 @@
-# Class Assignment #4 - pandas
+# Analyzing Covid-19 Dataset with Pandas
 
 ## Introduction
 
